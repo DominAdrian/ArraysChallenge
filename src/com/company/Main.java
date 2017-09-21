@@ -38,7 +38,7 @@ public class Main {
         }
     }
 
-    //SORTOWANIE TABLICY
+    //SORTOWANIE TABLICY (dłuższe działanie programu)
     public static int[] sortIntegers(int[] myIntegers){
 //        int[] sortedArray = new int[myIntegers.length];
 //        for (int i=0; i<myIntegers.length; i++){
